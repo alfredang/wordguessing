@@ -75,3 +75,5 @@ Pull requests welcome! For major changes, please open an issue first.
 ## 📄 License
 
 MIT — go wild! 🎉
+---
+Powered by [Tertiary Infotech Academy Pte. Ltd](https://www.tertiarycourses.com.sg/)
