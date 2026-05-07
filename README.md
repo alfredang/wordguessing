@@ -64,7 +64,9 @@ wordguessing/
 
 This repo includes a GitHub Action that auto-deploys to GitHub Pages on every push to `main`.
 
-**Live site:** https://alfredang.github.io/wordguessing/
+**Live Site:** https://alfredang.github.io/wordguessing/
+
+**Topics:** `game` `html` `css` `javascript` `emoji` `kids` `word-game` `educational` `fun`
 
 ## 🤝 Contributing
 
